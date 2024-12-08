@@ -1,0 +1,7 @@
+name: UnrealEffect
+main: org.qiuhua.unrealeffect.Main
+version: 1.0.0
+api-version: 1.13
+commands:
+depend:
+  - UnrealCore
